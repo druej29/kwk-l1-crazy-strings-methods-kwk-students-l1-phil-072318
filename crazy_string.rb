@@ -1,7 +1,8 @@
 # write your method here
 
-def crazy_strings("Hello","Friends")
-  puts 
+def crazy_strings(a,b)
+  putsa.upcasr.reverse
+  
   
 
 end
